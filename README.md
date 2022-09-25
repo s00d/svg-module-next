@@ -1,4 +1,4 @@
-# @nuxtjs/svg
+# svg-module-next
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -6,7 +6,7 @@
 
 _Super simple svg loading module for Nuxt.js_
 
-- [@nuxtjs/svg](#nuxtjssvg)
+- [svg-module-next](#nuxtjssvg)
   - [Introduction](#introduction)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -32,13 +32,13 @@ This package is for loading SVG's into Nuxt.js pages. It allows you to import `.
 ## Installation
 
 ```shell
-npm install --save-dev @nuxtjs/svg
+npm install --save-dev svg-module-next
 ```
 
 ```javascript
 // nuxt.config.js
 export default {
-  buildModules: ["@nuxtjs/svg"],
+  buildModules: ["svg-module-next"],
 };
 ```
 
@@ -232,9 +232,9 @@ Copyright (c) Sam Holmes
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@nuxtjs/svg/latest.svg?style=flat-square
-[npm-version-href]: https://npmjs.com/package/@nuxtjs/svg
-[npm-downloads-src]: https://img.shields.io/npm/dt/@nuxtjs/svg.svg?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/@nuxtjs/svg
-[license-src]: https://img.shields.io/npm/l/@nuxtjs/svg.svg?style=flat-square
-[license-href]: https://npmjs.com/package/@nuxtjs/svg
+[npm-version-src]: https://img.shields.io/npm/v/svg-module-next/latest.svg?style=flat-square
+[npm-version-href]: https://npmjs.com/package/svg-module-next
+[npm-downloads-src]: https://img.shields.io/npm/dt/svg-module-next.svg?style=flat-square
+[npm-downloads-href]: https://npmjs.com/package/svg-module-next
+[license-src]: https://img.shields.io/npm/l/svg-module-next.svg?style=flat-square
+[license-href]: https://npmjs.com/package/svg-module-next
