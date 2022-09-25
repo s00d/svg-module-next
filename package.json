@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/svg",
+  "name": "svg-module-next",
   "version": "1.0.0",
   "description": "Super simple svg loading module for Nuxt.js",
   "keywords": [
